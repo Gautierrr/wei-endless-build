@@ -30,3 +30,11 @@ corsImport(`http://localhost:8081/importManifestExt.js?${Date.now()}`).then(() =
   );
 });
 ```
+
+---
+
+
+
+Related links:
+- repository: https://github.com/gautierrollin/wei-external-component
+- issue: https://github.com/ScriptedAlchemy/webpack-external-import/issues/129
